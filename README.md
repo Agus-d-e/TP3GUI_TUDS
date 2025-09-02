@@ -1,6 +1,6 @@
-# TP1: Trabajo en Equipo de Interfaces Gráficas de Java
+# TP3: Trabajo en Equipo de Interfaces Gráficas de Java
 
-¡Bienvenido a nuestro espacio de trabajo! Este repositorio corresponde al **Trabajo Práctico 1** de la materia Laboratorio de Programación, donde comenzamos a dar nuestros primeros pasos con la creación de **interfaces gráficas (GUI)** utilizando Java.
+¡Bienvenido a nuestro espacio de trabajo! Este repositorio corresponde al **Trabajo Práctico 3** de la materia Laboratorio de Programación, donde comenzamos a dar nuestros primeros pasos con la creación de **interfaces gráficas (GUI)** utilizando Java.
 
 Aquí hemos guardado nuestro avance en torno al ejercicio propuesto por el profesor como parte de nuestra formación universitaria. Este repositorio es **exclusivo** para el desarrollo y la gestión de este proyecto.
 
